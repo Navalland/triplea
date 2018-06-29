@@ -1942,4 +1942,12 @@
     <br>
     <br>An alternate history World War 2 scenario.
     <br>
-
+    - mapName: European War
+  mapCategory: EXPERIMENTAL
+  url: https://github.com/triplea-maps/european_war/archive/master.zip
+  version: 1
+  img: https://raw.githubusercontent.com/triplea-maps/european_war/master/map/sampleMapImage.png
+  description:
+    <br>
+    <br>A fictional WW1 scenario with mix of ww1 and ww2 technologies.
+    <br>
